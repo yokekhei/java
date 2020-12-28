@@ -1,0 +1,22 @@
+<AppHdr xmlns="urn:iso:std:iso:20022:tech:xsd:head.001.001.01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Fr>
+	    <FIId>
+		    <FinInstnId>
+			    <BICFI>BMSCMYK1</BICFI>
+			</FinInstnId>
+		</FIId>
+	</Fr>
+	<To>
+	    <FIId>
+		    <FinInstnId>
+			    <Nm>Corporate Announcement Subscribers</Nm>
+			</FinInstnId>
+		</FIId>
+	</To>
+	<BizMsgIdr>MY190911X0000018</BizMsgIdr>
+	<MsgDefIdr>seev.031.001.08</MsgDefIdr>
+	<BizSvc>Corporate Announcements</BizSvc>
+	<CreDt>2019-09-11T11:56:51Z</CreDt>
+	<CpyDplct>DUPL</CpyDplct>
+	<PssblDplct>true</PssblDplct>
+</AppHdr>
